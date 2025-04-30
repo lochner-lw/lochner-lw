@@ -1,8 +1,8 @@
-##Alfe AI  
+## Alfe AI  
 Alfe AI, a FOSS Software Development Platform  
 https://github.com/alfe-ai  
 
-###Faybian OS  
+### Faybian OS  
 Faybian OS, a Debian variant  
 https://github.com/faybian-os  
 
