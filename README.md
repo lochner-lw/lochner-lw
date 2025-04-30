@@ -1,7 +1,9 @@
-Developing Alfe AI, a FOSS Software Development Platform  
+##Alfe AI
+Alfe AI, a FOSS Software Development Platform  
 https://github.com/alfe-ai  
 
-and Faybian OS, a Debian variant  
+###Faybian OS
+Faybian OS, a Debian variant
 https://github.com/faybian-os  
 
 _Lochner Tech_  
