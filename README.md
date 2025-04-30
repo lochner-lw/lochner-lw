@@ -10,5 +10,5 @@ https://github.com/faybian-os
 
 ---
 
-_Lochner Tech_  
+_by Lochner Tech_  
 https://github.com/lochner-technology  
