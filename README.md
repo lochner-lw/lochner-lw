@@ -1,5 +1,5 @@
 ### Alfe AI  
-[Alfe AI](https://alfe.sh), a FOSS Software Development and Image Design Platform  
+[Alfe AI](https://alfe.sh), an open-source Software Development and Image Design Platform  
 https://github.com/alfe-ai  
 
 <!-- 
