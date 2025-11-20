@@ -1,4 +1,7 @@
 ### Alfe AI  
+
+## IM SOVERIGN BITCH 
+
 [Alfe AI](https://alfe.sh), Privacy-First, Soverign, Open-source AI Software Development, Chat, and Image Design
 https://github.com/alfe-ai  
 
