@@ -1,5 +1,7 @@
 ### Alfe AI  
 
+# FUCK NAZIS
+
 [Alfe AI](https://alfe.sh) Privacy-First, FLOSS, Self-hostable, AI Software Development, Chat, and Image Design
 https://github.com/alfe-ai  
 
