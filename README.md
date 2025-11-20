@@ -1,6 +1,5 @@
 ### Alfe AI  
-
-# FUCK NAZIS
+<!--RETARDED FUCKING SOCIETY, YOU WANNA HARASS ME MORE, GANGSTAKING BITCHES -->
 
 [Alfe AI](https://alfe.sh) Privacy-First, FLOSS, Self-hostable, AI Software Development, Chat, and Image Design
 https://github.com/alfe-ai  
