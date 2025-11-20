@@ -1,12 +1,6 @@
 ### Alfe AI  
 
-## IM SOVERIGN BITCH 
-
-
-
-##   FREE ENERGY BITCH, COME AT ME 
-
- # I CHANNEL THE MFKING ALIENS BITCH
+ # I CHANNEL THE ALIENS
 
  ## WAKE UP https://old.reddit.com/r/EscapingPrisonPlanet/
 
