@@ -2,6 +2,12 @@
 
 ## IM SOVERIGN BITCH 
 
+
+
+##   FREE ENERGY BITCH, COME AT ME 
+
+ # I CHANNEL THE MFKING ALIENS BITCH
+
 [Alfe AI](https://alfe.sh), Privacy-First, Soverign, FREE Open-source AI Software Development, Chat, and Image Design
 https://github.com/alfe-ai  
 
