@@ -14,6 +14,8 @@ https://github.com/alfe-ai
 _by [Lochner Tech](https://lochner.tech)_  
 https://github.com/lochner-technology  
 
+[Hire me on Freelancer.com](https://freelancer.com/u/nlochner?sb=t) https://freelancer.com/u/nlochner?sb=t
+
 https://www.npmjs.com/~lochner-lw
 
 
