@@ -51,7 +51,7 @@ Tech stack: Raspberry Pi, Python, OpenCV, Google Maps API, WiFi AP.
 
 ### AlSH Shell & Debian Derivative
 
-<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/9931aa20-b472-45cf-832e-0ca27c4276eb" />
+<!--<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/9931aa20-b472-45cf-832e-0ca27c4276eb" />-->
 
 AlSH custom Bash shell and Faybian OS - Debian Derivative
 
