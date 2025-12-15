@@ -24,6 +24,22 @@ Tech stack: Node.js, Python, OpenAI APIs, JSON/REST.
 
 ---
 
+### Autonomous Security Drone
+
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/70b6a74c-18b8-48a4-88a6-383fffd39f8d" />
+
+For my senior thesis (B.S. Computer Science, UIUC) I built an autonomous UAV that patrols and detects humans.
+
+Available at: https://github.com/lochner-technology/secdrone
+
+A Raspberry Pi runs a secure WiFi access point and Python web app with Google Maps integration to send the drone to GPS waypoints, set speed/altitude, and patrol routes.
+
+A camera feed is processed with OpenCV using HOG + Linear SVM to detect humans, triggering email alerts.
+
+Tech stack: Raspberry Pi, Python, OpenCV, Google Maps API, WiFi AP. 
+
+---
+
 _by [Lochner Tech](https://lochner.tech)_  
 https://github.com/lochner-lw
 https://github.com/lochner-technology  
