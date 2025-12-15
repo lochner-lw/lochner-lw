@@ -73,16 +73,6 @@ Alfe AI integration with AlSH shell is planned. (https://alfe.sh)
 
 ---
 
-### Wolfram - Connecting Devices 
-
-Created a training video at Wolfram Research, How to Connect Your Device to Wolfram Language
-
-Video available at: https://www.wolfram.com/wolfram-u/courses/programming-applications/connect-your-device-to-wolfram-language-dev025/
-
-Talk was given live at Wolfram Technology Conference 2015: https://library.wolfram.com/infocenter/Conferences/9310/
-
----
-
 ### PuppetCore - ProgramaticPuppet
 
 PuppetCore is a Node.js package I built to simplify Puppeteer automation for navigating, scraping, and submitting web data.
@@ -94,6 +84,16 @@ ProgramaticPuppet is its no-code WYSIWYG interface, letting users create, edit, 
 Supports advanced steps like conditional clicks, eBay API/OAuth flows, GPT-powered title/price generation, file uploads, and looping runs.
 
 Tech stack: Node.js, Express, Puppeteer, OpenAI APIs, eBay APIs. 
+
+---
+
+### Wolfram - Connecting Devices 
+
+Created a training video at Wolfram Research, How to Connect Your Device to Wolfram Language
+
+Video available at: https://www.wolfram.com/wolfram-u/courses/programming-applications/connect-your-device-to-wolfram-language-dev025/
+
+Talk was given live at Wolfram Technology Conference 2015: https://library.wolfram.com/infocenter/Conferences/9310/
 
 ---
 
