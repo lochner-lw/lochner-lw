@@ -87,6 +87,16 @@ Tech stack: Node.js, Express, Puppeteer, OpenAI APIs, eBay APIs.
 
 ---
 
+### Subversion Portfolio
+
+Portfolio for Subversion projects written with Ruby. Includes a file browser for all files in the projects, capable of showing past revisions.
+
+Available at: https://github.com/lochner-technology/svn_portfolio
+
+Parses SVN log and list XML data to render the portfolio. Also allows viewers to comment on each project, storing the comments in a MySQL database. 
+
+---
+
 ### Wolfram - Connecting Devices 
 
 Created a training video at Wolfram Research, How to Connect Your Device to Wolfram Language
