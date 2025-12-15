@@ -9,6 +9,8 @@ https://github.com/alfe-ai
 
 [Lochner Apparel](https://www.ebay.com/str/lochnerapparel) AI-Generated Apparel on eBay, Amazon, and Shopify https://www.ebay.com/str/lochnerapparel  
 
+### More Projects Click Here  
+
 ---
 
 _by [Lochner Tech](https://lochner.tech)_  
