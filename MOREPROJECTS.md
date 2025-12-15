@@ -6,6 +6,8 @@ https://github.com/lochner-lw
 
 ### Alfe AI v1 - Sterling
 
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/a29c7ed8-2d3b-4e0e-bae6-c708babc0b63" />
+
 Version 1 of Alfe AI (https://alfe.sh)
 
 Available At: https://github.com/alfe-ai/Sterling
