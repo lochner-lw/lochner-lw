@@ -11,6 +11,8 @@ https://github.com/alfe-ai
 
 ### [More Projects Click Here](https://github.com/lochner-lw/lochner-lw/blob/main/MOREPROJECTS.md)  
 
+https://github.com/lochner-lw/lochner-lw/blob/main/MOREPROJECTS.md
+
 ---
 
 _by [Lochner Tech](https://lochner.tech)_  
