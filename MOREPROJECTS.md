@@ -73,6 +73,16 @@ Alfe AI integration with AlSH shell is planned. (https://alfe.sh)
 
 ---
 
+### Wolfram - Connecting Devices 
+
+Created a training video at Wolfram Research, How to Connect Your Device to Wolfram Language
+
+Video available at: https://www.wolfram.com/wolfram-u/courses/programming-applications/connect-your-device-to-wolfram-language-dev025/
+
+Talk was given live at Wolfram Technology Conference 2015: https://library.wolfram.com/infocenter/Conferences/9310/
+
+---
+
 _by [Lochner Tech](https://lochner.tech)_  
 https://github.com/lochner-lw
 https://github.com/lochner-technology  
