@@ -83,6 +83,14 @@ Talk was given live at Wolfram Technology Conference 2015: https://library.wolfr
 
 ---
 
+### Offworld Hamster Colony
+
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/9163f53b-ed98-417e-98ac-e8027b3617eb" />
+
+A city-building game prototype written with Python and Pygame. Plans to eventually release on Apple App Store and Google Play stores, and Steam/other platforms. 
+
+---
+
 _by [Lochner Tech](https://lochner.tech)_  
 https://github.com/lochner-lw
 https://github.com/lochner-technology  
