@@ -83,6 +83,14 @@ Talk was given live at Wolfram Technology Conference 2015: https://library.wolfr
 
 ---
 
+### Auto Vulnerability Tester
+
+An extensible automated vulnerability testing framework written in Python3 for CS460 at the University of Illinois at Urbana-Champaign.
+
+Available at: https://github.com/lochner-technology/auto_vulnerability_tester 
+
+---
+
 ### Offworld Hamster Colony
 
 <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/9163f53b-ed98-417e-98ac-e8027b3617eb" />
