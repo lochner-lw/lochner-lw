@@ -83,6 +83,20 @@ Talk was given live at Wolfram Technology Conference 2015: https://library.wolfr
 
 ---
 
+### PuppetCore - ProgramaticPuppet
+
+PuppetCore is a Node.js package I built to simplify Puppeteer automation for navigating, scraping, and submitting web data.
+
+Available at: https://www.npmjs.com/package/puppetcore and https://github.com/alfe-ai/PuppetCore
+
+ProgramaticPuppet is its no-code WYSIWYG interface, letting users create, edit, and run multi-step puppets via a browser UI.
+
+Supports advanced steps like conditional clicks, eBay API/OAuth flows, GPT-powered title/price generation, file uploads, and looping runs.
+
+Tech stack: Node.js, Express, Puppeteer, OpenAI APIs, eBay APIs. 
+
+---
+
 ### Auto Vulnerability Tester
 
 An extensible automated vulnerability testing framework written in Python3 for CS460 at the University of Illinois at Urbana-Champaign.
