@@ -136,6 +136,16 @@ A city-building game prototype written with Python and Pygame. Plans to eventual
 
 ---
 
+### Sands of Creation
+
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/64f2e660-06c3-45ff-a0b6-edee0ddec882" />
+
+A prototype falling sand game
+
+A physics-based puzzle game where falling sand creates beautiful art as you solve challenges.
+
+---
+
 _by [Lochner Tech](https://lochner.tech)_  
 https://github.com/lochner-lw
 https://github.com/lochner-technology  
