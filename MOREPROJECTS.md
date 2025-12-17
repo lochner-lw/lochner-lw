@@ -146,6 +146,36 @@ A physics-based puzzle game where falling sand creates beautiful art as you solv
 
 ---
 
+### Pixel Alchemy
+
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/5dd19ee1-3bde-4615-8604-8bd4b8188c17" />
+
+A prototype roguelike game written with Python/Pygame
+
+---
+
+### PlanetGen RTS
+
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/89892466-a261-45b1-9305-8ec24b18ed48" />
+
+A real time strategy game prototype developed with C++.
+
+Features procedural generated terrain using the diamond-square algorithm.
+
+---
+
+### CSAir
+
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/869ce51b-d948-4fbf-b2e7-fa0ce4ad6d29" />
+
+An airline management web application written in Python for CS242 at the University of Illinois.
+
+Displays routes with a global map, allows user to modify routes, generate a flight plan with multiple routes and calculate distance and cost for the flight plan.
+
+Also shows current weather information for airports in the United States. 
+
+---
+
 _by [Lochner Tech](https://lochner.tech)_  
 https://github.com/lochner-lw
 https://github.com/lochner-technology  
