@@ -176,6 +176,17 @@ Also shows current weather information for airports in the United States.
 
 ---
 
+### Java Chess
+
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/e8fc7516-20bb-4c6f-bbb4-0bd0f3eb16e5" />
+
+Chess game written in Java for CS242 at the University of Illinois.
+
+Includes a functional GUI using MVC architecture for two players locally.
+
+---
+
+
 _by [Lochner Tech](https://lochner.tech)_  
 https://github.com/lochner-lw
 https://github.com/lochner-technology  
