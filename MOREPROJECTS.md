@@ -128,6 +128,84 @@ Available at: https://github.com/lochner-technology/auto_vulnerability_tester
 
 ---
 
+### Threat Intelligence
+
+Built an API to provide intelligence on IP addresses and domain names for security incident response.
+
+Available at: https://github.com/lochner-technology/Threat_Intelligence
+
+For IPs: returns GeoIP data, reverse DNS, ping, AbuseIPDB reports, and Shodan scan results (ports, services, OS, SSL info).
+
+For domains: returns DNS lookup, RDAP, and WHOIS registry info.
+Designed for quick integration into automated security workflows.
+
+Tech stack: REST API, GeoIP, AbuseIPDB API, Shodan API, RDAP, WHOIS. 
+
+---
+
+### Haskell Turing Machine 
+
+A Turing Machine simulator written in Haskell.
+
+Available at: https://github.com/lochner-technology/haskell_turing_machine
+
+Takes in Turing Machine specifications consisting of a tape alphabet (String list), initial tape (String list), and a machine definition with states.
+The Machine definition is a HashMap where the keys are states labeled with Strings, and the values are States.
+The State definition is a HashMap where the keys are the symbols read in from the current tape position, and the values are Instructions.
+
+The Instruction definition consists of:
+
+    A String, which is the label to write to the tape's current position.
+    A Direction, either TapeRight or TapeLeft to move the tape after writing
+    A String, which is the label of the next state. "HALT" should be entered when the program should terminate.
+
+The example below is a machine which adds 1 to the binary number on the tape.
+From: https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/turing-machine/four.h 
+
+---
+
+### Android Simple Shell 
+
+Available at: https://github.com/lochner-technology/android_simple_shell
+
+A simple shell for Android using the SDK (Java Standard Development Kit) and NDK (Native C Development Kit) created for CS241 systems programming Android examples while I was a course assistant.
+
+Can be installed on any Android device as an APK and can execute any standard UNIX system utilities such as: ls, cat, uname, and ps.
+
+It uses fork() and exec() in the native C code to do so, while writing output and receiving user input from the Java code.
+
+It also supports the standard "cd" command to change the current working directory.
+
+The shell prompt emulates Bash by showing the username, hostname, and current working directory.
+
+---
+
+### AirTarget - DynamicData
+
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/2e19ed9f-02f4-439b-a7bb-02fc24286cee" />
+
+As part of a team of 7 students, we developed a collision detection/avoidance research flight simulator created in C#/Unity for the Oculus Rift. The project's goal was to create a simulator for a study to determine if flight training with virtual reality is beneficial to help pilots improve their avoidance skills. Each of us worked on separate portions and combined our code to create the final flight simulator.
+
+This repository contains my portion of the code for our final project for CS498 SL (Virtual Reality - Oculus Rift Development) at the University of Illinois at Urbana-Champaign.
+
+The writeup is also available in this repository: https://github.com/njlochner/AirTarget-DynamicData/blob/master/AirTarget-Writeup.pdf 
+
+### Logistica - eCommerce
+
+Logistica is a self-hostable backend automation system I built as part of Lochner Technology / Alfe Ai / Lochner Apparel.
+It syncs e-commerce operations across Shopify, eBay, Amazon, and more.
+
+It was originally built to sell power cables on Amazon FBA and is being repurposed for Lochner Apparel shirts.
+
+It automates product listings, inventory, and shipping updates via marketplace and carrier APIs, reducing manual work and errors.
+
+Includes SKU-based shipping rules, order syncing, and robust error handling with retries and alerts.
+
+Used by Confused Apparel for multi-channel publishing and fulfillment.
+Tech stack: Node.js, SQL, REST APIs, OAuth.
+
+---
+
 ### Offworld Hamster Colony
 
 <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/9163f53b-ed98-417e-98ac-e8027b3617eb" />
