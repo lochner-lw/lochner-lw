@@ -18,6 +18,8 @@ https://github.com/lochner-lw/lochner-lw/blob/main/MOREPROJECTS.md
 _by [Lochner Tech](https://lochner.tech)_  
 https://github.com/lochner-technology  
 
+https://www.linkedin.com/in/nicholaslochner/
+
 [Hire me on Freelancer.com](https://freelancer.com/hireme/nlochner) - https://freelancer.com/hireme/nlochner
 
 https://www.npmjs.com/~lochner-lw
