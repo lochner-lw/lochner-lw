@@ -20,7 +20,7 @@ https://github.com/lochner-technology
 
 <!-- https://www.linkedin.com/in/nicholaslochner/ -->
 
-[Hire me on Freelancer.com](https://freelancer.com/hireme/nlochner) - https://freelancer.com/hireme/nlochner
+<!-- [Hire me on Freelancer.com](https://freelancer.com/hireme/nlochner) - https://freelancer.com/hireme/nlochner -->
 
 https://www.npmjs.com/~lochner-lw
 
