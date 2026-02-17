@@ -7,7 +7,7 @@ https://github.com/alfe-ai
 
 [Lochner Apparel](https://www.ebay.com/str/lochnerapparel) AI-Generated Apparel on eBay, Amazon, and Shopify https://www.ebay.com/str/lochnerapparel  
 
-Alfe AI (https://alfe.sh) is a cross-platform app with Free and Paid tiers for agentic software development, project management, image design, and AI chat with embedded web search. Preparing for release on the Apple App Store and Google Play.
+Alfe AI (https://alfe.sh) is a cross-platform app with free and paid tiers for agentic software development, project management, image design, and AI chat with embedded web search. 
 
 Responsibilities include product strategy, full-stack development, cloud/DevOps, data pipelines, and integrations (AI APIs, Printify, marketplaces, payments, fulfillment).
 
