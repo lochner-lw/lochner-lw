@@ -2,7 +2,7 @@ https://github.com/lochner-lw
 
 ### Alfe AI / Lochner Apparel
 
-[Alfe AI](https://alfe.sh) Free, Libre, Self-hostable, AI Software Development, Chat, and Image Design
+[Alfe AI](https://alfe.bot) Free, Libre, Self-hostable, AI Software Development, Chat, and Image Design
 https://github.com/alfe-ai  
 
 [Lochner Apparel](https://www.ebay.com/str/lochnerapparel) AI-Generated Apparel on eBay, Amazon, and Shopify https://www.ebay.com/str/lochnerapparel  
