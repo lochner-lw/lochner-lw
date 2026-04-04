@@ -1,9 +1,9 @@
 
 
-### Alfe AI  
+### AlSH.ai  
 
-[Alfe AI](https://alfe.bot) Free, Libre, Self-hostable, AI Software Development, Chat, and Image Design
-https://github.com/alfe-ai  
+[AlSH.ai](https://alsh.ai) Free, Libre, Self-hostable, AI Software Development, Chat, and Image Design
+https://github.com/AlSH-ai  
 
 ### Lochner Apparel  
 
