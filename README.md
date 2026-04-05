@@ -1,9 +1,9 @@
 
 
-### AlSH.ai  
+### ALSH.ai  
 
-[AlSH.ai](https://alsh.ai) Free, Libre, Self-hostable, AI Software Development, Chat, and Image Design
-https://github.com/AlSH-ai  
+[ALSH.ai](https://alsh.ai) Free, Libre, Self-hostable, AI Software Development, Chat, and Image Design
+https://github.com/ALSH-ai  
 
 ### Lochner Apparel  
 
