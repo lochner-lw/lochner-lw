@@ -1,6 +1,5 @@
 
-
-### ALSH.ai  
+<img width="321" height="98" alt="image" src="https://github.com/user-attachments/assets/daaf0c91-6f84-42f6-9b06-db2844151ba7" />
 
 [ALSH.ai](https://alsh.ai) Free, Libre, Self-hostable, AI Software Development, Chat, and Image Design
 https://github.com/ALSH-ai  
