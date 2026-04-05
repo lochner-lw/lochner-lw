@@ -32,7 +32,7 @@ Commerce and operations
 
 Version 1 of AlSH.ai (formerly known as Alfe AI (https://alfe.sh) )
 
-Available At: https://github.com/alfe-ai/Sterling
+Available At: https://github.com/AlSH-ai/Sterling
 
 Alfe AI - Sterling is a self-hostable AI-powered coding assistant I built to act as a “co-developer,” turning natural language into working code.
 
@@ -90,7 +90,7 @@ Alfe AI integration with AlSH shell is planned. (https://alfe.sh)
 
 PuppetCore is a Node.js package I built to simplify Puppeteer automation for navigating, scraping, and submitting web data.
 
-Available at: https://www.npmjs.com/package/puppetcore and https://github.com/alfe-ai/PuppetCore
+Available at: https://www.npmjs.com/package/puppetcore and https://github.com/AlSH-ai/PuppetCore
 
 ProgramaticPuppet is its no-code WYSIWYG interface, letting users create, edit, and run multi-step puppets via a browser UI.
 
