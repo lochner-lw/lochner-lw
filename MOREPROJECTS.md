@@ -62,27 +62,28 @@ Tech stack: Raspberry Pi, Python, OpenCV, Google Maps API, WiFi AP.
 
 ---
 
-### ALSH Shell & Debian Derivative
+### ALSH Shell & Faybian OS (Debian Derivative)
 
-<!--<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/9931aa20-b472-45cf-832e-0ca27c4276eb" />-->
+ALSH Shell and ALSH.ai are related, but separate projects.
 
-ALSH custom Bash shell and Faybian OS - Debian Derivative
+- **ALSH Shell** is a standalone custom Bash-based shell for assisted software development.
+- **ALSH.ai** is the broader cross-platform AI product (chat, image design, software development, and project workflows).
 
 Available at: https://github.com/faybian-os
 
 Faybian OS is a Debian-based development environment I built for easier software development.
 
-Features ALSH, the Bash-based shell for assisted software development.
+It includes ALSH Shell as its command-line development layer, along with automation for reproducible VM-based environments.
 
-Automated Bash scripts provision QEMU/KVM VMs, install Debian, configure users, SSH, dev tools.
+Automated Bash scripts provision QEMU/KVM VMs, install Debian, configure users, SSH, and developer tooling.
 
-Ensures reproducible setups across local and cloud, with isolated VMs for safe testing.
+The environment is designed for consistent setup across local and cloud systems, with isolated VMs for safer testing.
 
-Includes scripts for VM snapshots, resets, and network config.
+Includes scripts for VM snapshots, resets, and network configuration.
 
 Tech stack: Debian, Bash, QEMU/KVM, Linux networking.
 
-Alfe AI integration with ALSH shell is planned. (https://alfe.sh) 
+Planned roadmap: optional ALSH.ai integration with ALSH Shell workflows.
 
 ---
 
