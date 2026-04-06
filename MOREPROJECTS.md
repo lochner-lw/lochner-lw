@@ -67,11 +67,14 @@ Tech stack: Raspberry Pi, Python, OpenCV, Google Maps API, WiFi AP.
 ALSH Shell and ALSH.ai are related, but separate projects.
 
 - **ALSH Shell** is a standalone custom Bash-based shell for assisted software development.
+- https://github.com/faybian-os/bashrc
+
 - **ALSH.ai** is the broader cross-platform AI product (chat, image design, software development, and project workflows).
 
-Available at: https://github.com/faybian-os
 
 Faybian OS is a Debian-based development environment I built for easier software development.
+
+Available at: https://github.com/faybian-os
 
 It includes ALSH Shell as its command-line development layer, along with automation for reproducible VM-based environments.
 
