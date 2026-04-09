@@ -13,6 +13,10 @@ https://github.com/ALSH-ai
 
 https://github.com/lochner-lw/lochner-lw/blob/main/MOREPROJECTS.md
 
+## Contact
+
+hello@lochner.tech
+
 ---
 
 _by [Lochner Tech](https://lochner.tech)_  
