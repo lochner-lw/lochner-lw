@@ -15,7 +15,7 @@ https://github.com/lochner-lw/lochner-lw/blob/main/MOREPROJECTS.md
 
 ## Contact
 
-hello@lochner.tech
+engineering@lochner.tech
 
 ---
 
