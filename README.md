@@ -24,7 +24,7 @@ https://github.com/lochner-technology
 
 https://www.linkedin.com/in/nicholaslochner
 
-https://freelancer.com/hireme/nlochner
+<!-- I dont check these messages https://freelancer.com/hireme/nlochner -->
 
 https://www.npmjs.com/~lochner-lw
 
